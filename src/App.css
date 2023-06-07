@@ -1,0 +1,14 @@
+label {
+    font-weight: bolder;
+}
+
+input {
+    border-radius: 6px;
+    padding: 2px;
+    margin: 2px;
+}
+
+
+p {
+    color: red;
+}
